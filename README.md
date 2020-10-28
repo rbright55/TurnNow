@@ -1,6 +1,7 @@
 # TurnNow
 Simple SDL app that shows turn arrows with countdown
 
+<img src="https://github.com/rbright55/TurnNow/blob/main/app_screenshot.PNG?raw=true" width="350">
 ## Instructions
 - Connect the app by entering TCP/IP information with the TCP/IP connection switch enabled
 - If connecting via USB or Bluetooth, disable the TCP/IP connection switch
